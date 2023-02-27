@@ -1,0 +1,5 @@
+interrupt allocation:	
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/intr_alloc.html
+
+sketch:	
+	https://github.com/futureshocked/ESP32-For-Busy-People-1/blob/master/04-070_Interrupt_with_button_and_led/04-070_Interrupt_with_button_and_led.ino

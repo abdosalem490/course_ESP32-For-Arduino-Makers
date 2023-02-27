@@ -1,0 +1,1 @@
+https://github.com/futureshocked/ESP32-For-Busy-People-1/blob/master/04-050_Analog_input_with_pot/04-050_Analog_input_with_pot.ino

@@ -1,0 +1,71 @@
+SECTION1:
+---------
+
+Atom text editor:	
+	https://github.blog/2022-06-08-sunsetting-atom/
+
+Serial tools (for MAC OS):
+	http://www.apphugs.com/serial-tools.html
+
+arduino IDE:
+	https://www.arduino.cc/en/software
+
+List of hardware components:
+ 	https://techexplorations.com/parts/esp32/
+
+code repository:
+	https://github.com/futureshocked/ESP32-For-Busy-People-1
+
+ESP-IDF Programming Guide from Espressif:
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html
+
+SECTION2:
+---------
+
+Pseudostatic RAM (PSRAM):
+	https://en.wikipedia.org/wiki/Dynamic_random-access_memory#PSRAM
+
+Inverted-F antenna:
+	https://en.wikipedia.org/wiki/Inverted-F_antenna
+
+WROOM, SOLO and WROVER Modules:
+	https://www.espressif.com/en/products/modules
+
+List of ESP32 system on a chip variants:
+	https://www.espressif.com/en/products/socs
+
+ESP32 development boards:
+	https://www.espressif.com/en/products/devkits
+
+I2S:
+	https://en.wikipedia.org/wiki/I%C2%B2S
+
+Power supply options:
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html#power-supply-options
+
+
+SECTION3:
+---------
+
+download arduino IDE:
+	https://www.arduino.cc/en/software/
+
+arduino core for ESP32:
+	https://github.com/espressif/arduino-esp32
+
+platformIO for iot development:
+	https://platformio.org/
+
+Installing using Arduino IDE(Espressif decs):
+	https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html#installing-using-arduino-ide
+
+USB to UART bridge chips:
+	http://esp32.net/usb-uart/
+
+CP210x USB to UART bridge VCP drivers:
+	https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
+
+SECTION4:
+---------
+

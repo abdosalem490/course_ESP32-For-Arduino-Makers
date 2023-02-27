@@ -1,0 +1,19 @@
+Advanced Arduino boards and Tools:
+	https://techexplorations.com/so/advanced-arduino-boards-and-tools/
+
+digital to analog converter docs:
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/dac.html
+
+Sine look up table generator calculator:
+	https://daycounter.com/Calculators/Sine-Generator-Calculator.phtml
+
+Triangle wave look up table generator calculator:
+	https://daycounter.com/Calculators/Triangle-Wave-Generator-Calculator.phtml
+
+Zero waveform sketch:
+	https://github.com/futureshocked/aabt/tree/master/zero_waveform_dac
+
+sketch:
+	https://github.com/futureshocked/ESP32-For-Busy-People-1/blob/master/04-062_DAC_waveforms_with_piezo_buzzer/04-062_DAC_waveforms_with_piezo_buzzer.ino
+
+

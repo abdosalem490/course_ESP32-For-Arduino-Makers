@@ -1,0 +1,5 @@
+Digital to analog converter docs:
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/dac.html
+
+sketch link:
+	https://github.com/futureshocked/ESP32-For-Busy-People-1/blob/master/04-062_DAC_waveforms_with_piezo_buzzer/04-062_DAC_waveforms_with_piezo_buzzer.ino

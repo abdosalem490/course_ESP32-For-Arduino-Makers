@@ -1,0 +1,6 @@
+wikipedia article about hue:
+	https://en.wikipedia.org/wiki/Hue
+
+source code (HAL):
+	https://github.com/espressif/arduino-esp32/blob/master/variants/esp32/pins_arduino.h
+

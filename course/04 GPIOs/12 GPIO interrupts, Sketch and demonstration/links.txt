@@ -1,0 +1,11 @@
+interrupt allocation:	
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/intr_alloc.html
+
+functional interrupt header file:
+	https://github.com/espressif/arduino-esp32/blob/master/cores/esp32/FunctionalInterrupt.h
+
+ESP32-IDF portmacro header file:
+	https://github.com/espressif/esp-idf/blob/f586f5e690e687f8db219a8b509bbf483fc416d6/components/freertos/include/freertos/portmacro.h
+
+sketch:	
+	https://github.com/futureshocked/ESP32-For-Busy-People-1/blob/master/04-070_Interrupt_with_button_and_led/04-070_Interrupt_with_button_and_led.ino

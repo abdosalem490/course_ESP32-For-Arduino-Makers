@@ -1,0 +1,8 @@
+Source code (HAL):
+	https://github.com/espressif/arduino-esp32/blob/master/cores/esp32/esp32-hal-ledc.h
+
+LED control docs:
+	https://docs.espressif.com/projects/arduino-esp32/en/latest/api/ledc.html
+
+link for code in github:
+	https://github.com/futureshocked/ESP32-For-Busy-People-1/blob/master/04-020_Digital_output_PWM/04-020_Digital_output_PWM.ino
